@@ -11,6 +11,7 @@ This project is a starting point for the assessment. The project includes one pa
 * On the first click, the endpoint "http://demo1645562.mockable.io/feedback" should receive the message. 
 ```
 {'feedback': 'mistake'}
+```
 
 * If the user continue clicking the button, a popup should show the message of "The feedback is already received". 
 * Please pay attention on error handling. 
